@@ -109,14 +109,13 @@ This project is for educational and personal use. Feel free to modify and share!
 
 ## ✨ Author
 
-- **BuzzBuy** by [Your Name]
+- **BuzzBuy** by Dheeraj  Kumar
 
 ---
 
 ## 📬 Contact
 
-- 📧 buzzbuy@gmail.com
-- 📞 +91 254 854 62
+- 📧 Dheeraj202107@gmail.com
 
 ---
 
